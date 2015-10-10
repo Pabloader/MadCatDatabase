@@ -1,0 +1,5 @@
+pabloid_mcd:
+    resource: "@PabloidMCDBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
